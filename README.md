@@ -1,25 +1,29 @@
-🎰 Casino Project v1.0
+🎲 Casino Project v1.0.
 
 Welcome to the Casino Project!
 
-This project simulates a virtual casino with several classic games implemented in Python.
+This project simulates a simple dice game with statistical functions, implemented in Python.
 
 Main features:
 ✨ Intuitive command-line interface
-🃏 Included games: Blackjack, Roulette, Slot Machine
-💰 Player balance management system
-🔄 Option to reload balance
-📊 Game statistics
+🎲 Dice game with two dice
+📊 Calculation of arithmetic mean of all rolls
+📈 Detailed statistics of dice face occurrences
+
+Functionalities:
+- Roll dice
+- Calculate arithmetic mean of all rolls
+- View statistics of each number's occurrence
 
 Requirements:
+- Python 3.x
 
-Python 3.x
 Usage instructions:
+1. Clone the repository
+2. Run the Python script
+3. Follow on-screen instructions to play
 
-Clone the repository
-Run 'main.py'
-Enjoy the casino experience!
-Note: This project is for educational and entertainment purposes only. It does not involve real money betting.
+Note: This project is for educational and entertainment purposes.
 
 Thank you for trying my Casino Project! 🎉
 
